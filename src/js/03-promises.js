@@ -1,4 +1,4 @@
-
+import Notiflix from 'notiflix';
 
 const buttonSubmit = document.querySelector('button');
 const delay = document.querySelector('input[name="delay"]');
